@@ -1,0 +1,27 @@
+entry	kind	nt	assigned	exact	contained	ratio	near_miss	source	verdict
+hsa-let-7a-5p	control	22	423994	198034	221488	0.5223847507276046	79659	22nt	control
+hsa-miR-184	control	22	224718	63971	101263	0.45062255805053447	24247	21nt	control
+hsa-miR-21-5p	control	22	88395	38608	83910	0.9492618360767011	361	22nt	control
+hsa-let-7c-5p	control	22	84730	43622	52597	0.620760061371415	161903	21nt	control
+hsa-miR-200c-3p	control	23	78788	30334	54733	0.6946870081738336	8458	23nt: hsa-miR-200c-3p (miRBase v23)	control
+hsa-miR-375-3p	control	22	21091	11140	16216	0.7688587549191598	684	22nt: hsa-miR-375-3p (miRBase v23)	control
+hsa-miR-1246	flagged	19	10982	1	8732	0.7951192861045346	219	72nt	sequence present
+hsa-miR-7704	flagged	19	6089	0	1	0.00016423057973394647	2114	58nt	ARTIFACT
+hsa-miR-4502	flagged	22	5696	0	0	0.0	0		ARTIFACT
+hsa-miR-5701	flagged	19	3627	0	0	0.0	2599	61nt: URS000022EFB6_9606 (human snoRNA)	ARTIFACT
+hsa-miR-6785-5p	flagged	22	2729	0	0	0.0	0		ARTIFACT
+hsa-miR-542-3p	flagged	22	594	0	0	0.0	0		ARTIFACT
+hsa-miR-4791	flagged	18	319	0	0	0.0	7	15nt: URS000053D4AB_9606 (human snoRNA)	ARTIFACT
+hsa-miR-4454	flagged	20	211	0	0	0.0	30	23nt	ARTIFACT
+hsa-miR-2682-5p	scan	23	24712	0	0	0.0	0		ARTIFACT
+hsa-miR-1303	scan	22	1214	3	4	0.0032948929159802307	10	22nt	ARTIFACT
+hsa-miR-4485-5p	scan	16	616	0	676	1.0974025974025974	42	72nt	TOO SHORT to test
+hsa-miR-8054	scan	21	453	0	0	0.0	0		ARTIFACT
+hsa-miR-1184	scan	23	296	0	0	0.0	0		ARTIFACT
+hsa-miR-548v	scan	22	226	0	0	0.0	0		ARTIFACT
+hsa-miR-8089	scan	24	148	0	0	0.0	0		ARTIFACT
+hsa-miR-657	scan	23	116	0	0	0.0	0		ARTIFACT
+hsa-miR-4477b	scan	22	100	0	0	0.0	0		ARTIFACT
+hsa-miR-4423-3p	scan	21	77	0	0	0.0	0		ARTIFACT
+hsa-miR-4639-5p	scan	22	58	0	1	0.017241379310344827	0		ARTIFACT
+hsa-miR-6756-5p	scan	23	48	0	0	0.0	0		ARTIFACT

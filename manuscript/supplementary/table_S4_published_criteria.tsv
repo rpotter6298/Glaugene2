@@ -1,0 +1,7 @@
+study	design	criterion	reported	lens	tear	correction_in_that_study	criterion_verified_from
+Tomczyk-Socha 2022	lens capsule, 5 v 5	P < 0.1*	6	18	32	Not stated anywhere in the paper	full text, doi 10.3390/genes13040582
+Rao 2020	peripheral blood, 3 v 3 (XFG against XFS with ocular hypertension)	P < 0.05*	12	5	13	Not stated	full text, doi 10.2147/OPTH.S254504
+Kosior-Jarecka 2021	aqueous humour, 42 v 36, 22-miRNA panel	unadjusted P < 0.05	0	5	13	None on the disease comparison; Benjamini-Hochberg applied only to the enrichment analysis	full text, doi 10.1007/s00417-021-05214-z
+Drewry 2018	aqueous humour, 12 POAG, 12 XFG v 11	|log2FC| ≥ 0.6, unadjusted P ≤ 0.05, and detected in ≥ 5 samples	5 (XFG)	4	8	None on the disease comparison; Benjamini-Hochberg and a bias correction applied only to the pathway analysis	full text, doi 10.1093/hmg/ddy040
+Cho 2022	aqueous humour, 11 XFG, 8 NTG v 7	fold change > 2 and unadjusted P < 0.05	12 (XFG)	2	3	None on the disease comparison; false discovery rate applied only to pathway enrichment	full text, doi 10.1038/s41598-022-09572-4
+Czop 2023	aqueous humour, 9 v 9	unadjusted P < 0.01	20	2	5	None on the disease comparison; Benjamini-Hochberg applied only to the enrichment analysis	full text, doi 10.3390/cells12050737

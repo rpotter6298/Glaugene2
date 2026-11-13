@@ -1,0 +1,44 @@
+entry	category	reason	nt	reads_assigned	exact_occurrences	observed_over_assigned	cpm_BEA-dedup	cpm_BEA-raw	cpm_nfcore	cpm_CBGM-v22	cpm_PEXlens-v22	excluded
+hsa-miR-2682-5p	absent	mature sequence absent from the reads	23.0	24712.0	0.0	0.0	290.174	67.648				True
+hsa-miR-7704	absent	mature sequence absent from the reads	19.0	6089.0	0.0	0.0002	2162.277	392.6			36.314	True
+hsa-miR-4502	absent	mature sequence absent from the reads	22.0	5696.0	0.0	0.0	843.961	198.27				True
+hsa-miR-5701	absent	mature sequence absent from the reads	19.0	3627.0	0.0	0.0	2150.985	326.878			0.098	True
+hsa-miR-6785-5p	absent	mature sequence absent from the reads	22.0	2729.0	0.0	0.0	368.827	96.544	0.438	0.013	0.185	True
+hsa-miR-1303	absent	mature sequence absent from the reads	22.0	1214.0	3.0	0.0033	165.282	27.685		0.578	4.172	True
+hsa-miR-542-3p	absent	mature sequence absent from the reads	22.0	594.0	0.0	0.0	696.524	116.697	2.593	0.081	1.373	True
+hsa-miR-8054	absent	mature sequence absent from the reads	21.0	453.0	0.0	0.0	43.51	15.407				True
+hsa-miR-4791	absent	mature sequence absent from the reads	18.0	319.0	0.0	0.0	126.882	18.887			0.214	True
+hsa-miR-1184	absent	mature sequence absent from the reads	23.0	296.0	0.0	0.0	46.415	11.338				True
+hsa-miR-548v	absent	mature sequence absent from the reads	22.0	226.0	0.0	0.0	81.559	14.917		0.009	0.029	True
+hsa-miR-4454	absent	mature sequence absent from the reads	20.0	211.0	0.0	0.0	62.271	8.866			3.047	True
+hsa-miR-8089	absent	mature sequence absent from the reads	24.0	148.0	0.0	0.0	23.364	5.758			0.009	True
+hsa-miR-657	absent	mature sequence absent from the reads	23.0	116.0	0.0	0.0	18.956	4.381			0.929	True
+hsa-miR-4477b	absent	mature sequence absent from the reads	22.0	100.0	0.0	0.0	21.726	4.296		0.039	0.032	True
+hsa-miR-4423-3p	absent	mature sequence absent from the reads	21.0	77.0	0.0	0.0	18.625	3.294	0.005			True
+hsa-miR-4639-5p	absent	mature sequence absent from the reads	22.0	58.0	0.0	0.0172	13.262	2.612	0.081	0.086	0.081	True
+hsa-miR-6756-5p	absent	mature sequence absent from the reads	23.0	48.0	0.0	0.0	28.59	3.55	0.306		0.02	True
+hsa-miR-3182	inflated	counts inflated relative to every other pipeline					16482.18	10836.144			26.849	True
+hsa-miR-4497	inflated	counts inflated relative to every other pipeline					500.507	94.27			11.112	True
+hsa-miR-4448	inflated	counts inflated relative to every other pipeline					240.717	33.765			4.992	True
+hsa-miR-5585-3p	inflated	counts inflated relative to every other pipeline					259.244	41.205	2.214	0.013	0.372	True
+hsa-miR-4284	inflated	counts inflated relative to every other pipeline					101.47	14.477			0.104	True
+hsa-miR-3609	inflated	counts inflated relative to every other pipeline					96.205	14.013		0.021	0.159	True
+hsa-miR-935	inflated	counts inflated relative to every other pipeline					110.188	18.261		13.655	10.004	True
+hsa-miR-1908-5p	inflated	counts inflated relative to every other pipeline					53.534	12.539	5.603	2.699	5.474	True
+hsa-miR-4259	inflated	counts inflated relative to every other pipeline					12.735	3.32			0.289	True
+hsa-miR-1246	annotation	sequence present, but almost only inside longer transcripts	19.0	10982.0	1.0	0.7951	1192.584	187.508			13.896	True
+hsa-miR-423-5p	unmeasurable	reported zero in every sample; this pipeline cannot measure it					0.0	0.0	1746.864	2140.244	989.533	True
+hsa-miR-3184-3p	unmeasurable	reported zero in every sample; this pipeline cannot measure it					0.0	0.0	0.005	2140.244	975.694	True
+hsa-miR-103a-3p	unmeasurable	reported zero in every sample; this pipeline cannot measure it					0.0	0.0	1306.263	1217.083	665.834	True
+hsa-miR-103b-5p	unmeasurable	reported zero in every sample; this pipeline cannot measure it										True
+hsa-miR-151b-3p	unmeasurable	reported zero in every sample; this pipeline cannot measure it							37.514			True
+hsa-miR-3529-3p	unmeasurable	reported zero in every sample; this pipeline cannot measure it					0.0	0.0		190.337	69.217	True
+hsa-miR-7-5p	unmeasurable	reported zero in every sample; this pipeline cannot measure it					0.0	0.0	122.721	190.337	67.924	True
+hsa-miR-1268a-5p	unmeasurable	reported zero in every sample; this pipeline cannot measure it							26.94			True
+hsa-miR-4485-5p	unresolved	too short (16 nt) for the read-level test; retained with a flag	16.0	616.0	0.0	1.0974	30.463	4.917	0.098		0.003	False
+hsa-let-7a-5p	control	positive control, retained in the analysis	22.0	423994.0	198034.0	0.5224	100852.398	160436.859	165883.951	242276.371	178235.339	False
+hsa-miR-184	control	positive control, retained in the analysis	22.0	224718.0	63971.0	0.4506	140475.404	473882.716		341525.939	479206.129	False
+hsa-miR-21-5p	control	positive control, retained in the analysis	22.0	88395.0	38608.0	0.9493	12517.97	4706.059	4734.81	6834.375	4875.987	False
+hsa-let-7c-5p	control	positive control, retained in the analysis	22.0	84730.0	43622.0	0.6208	55825.172	51184.901	51886.622	66306.611	56751.939	False
+hsa-miR-200c-3p	control	positive control, retained in the analysis	23.0	78788.0	30334.0	0.6947	13156.69	4026.511	4054.457	5724.322	4442.12	False
+hsa-miR-375-3p	control	positive control, retained in the analysis	22.0	21091.0	11140.0	0.7689	2508.462	409.681	410.771	525.156	444.255	False

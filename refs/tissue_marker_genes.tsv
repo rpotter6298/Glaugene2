@@ -1,0 +1,31 @@
+gene	tissue	role	source
+CRYAA	lens	alpha-crystallin, principal lens structural protein	Andley 2007 Prog Retin Eye Res 26:78
+CRYAB	lens	alpha-B-crystallin, chaperone	Andley 2007 Prog Retin Eye Res 26:78
+CRYBA1	lens	beta-crystallin	Bassnett 2011 Exp Eye Res 93:5
+CRYBB1	lens	beta-crystallin	Bassnett 2011 Exp Eye Res 93:5
+CRYBB2	lens	beta-crystallin	Bassnett 2011 Exp Eye Res 93:5
+CRYBB3	lens	beta-crystallin	Bassnett 2011 Exp Eye Res 93:5
+CRYGC	lens	gamma-crystallin	Bassnett 2011 Exp Eye Res 93:5
+CRYGD	lens	gamma-crystallin	Bassnett 2011 Exp Eye Res 93:5
+CRYGS	lens	gamma-S-crystallin	Bassnett 2011 Exp Eye Res 93:5
+MIP	lens	aquaporin-0, lens fibre membrane	Chepelinsky 2009 Handb Exp Pharmacol 190:265
+GJA3	lens	connexin-46, fibre gap junction	Beyer 2013 Biochim Biophys Acta 1828:141
+GJA8	lens	connexin-50, fibre gap junction	Beyer 2013 Biochim Biophys Acta 1828:141
+BFSP1	lens	filensin, beaded filament	Song 2009 Exp Eye Res 88:133
+BFSP2	lens	phakinin, beaded filament	Song 2009 Exp Eye Res 88:133
+LIM2	lens	MP20, fibre cell junction	Bassnett 2011 Exp Eye Res 93:5
+VIM	lens	vimentin, lens epithelium cytoskeleton	Bassnett 2011 Exp Eye Res 93:5
+LCN1	tear	lipocalin-1, most abundant tear protein	Dartt 2011 Prog Retin Eye Res 30:155
+LTF	tear	lactoferrin, tear antimicrobial	Dartt 2011 Prog Retin Eye Res 30:155
+LYZ	tear	lysozyme, tear antimicrobial	Dartt 2011 Prog Retin Eye Res 30:155
+SCGB2A1	tear	lacryglobin / mammaglobin-B	Zhou 2012 J Proteomics 75:3877
+SCGB1D1	tear	lipophilin A	Zhou 2012 J Proteomics 75:3877
+PIP	tear	prolactin-inducible protein	Zhou 2012 J Proteomics 75:3877
+MUC5AC	tear	gel-forming mucin, goblet cell	Gipson 2004 Prog Retin Eye Res 23:1
+MUC1	tear	membrane mucin, ocular surface epithelium	Gipson 2004 Prog Retin Eye Res 23:1
+MUC4	tear	membrane mucin, ocular surface epithelium	Gipson 2004 Prog Retin Eye Res 23:1
+MUC16	tear	membrane mucin, ocular surface epithelium	Gipson 2004 Prog Retin Eye Res 23:1
+AZGP1	tear	zinc-alpha-2-glycoprotein, lacrimal secretion	Zhou 2012 J Proteomics 75:3877
+CST4	tear	cystatin-S, lacrimal secretion	Zhou 2012 J Proteomics 75:3877
+DEFB1	tear	beta-defensin-1, ocular surface	McDermott 2013 Exp Eye Res 117:53
+S100A8	tear	calprotectin subunit, ocular surface	Zhou 2012 J Proteomics 75:3877

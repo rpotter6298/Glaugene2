@@ -1,0 +1,69 @@
+# Analysis outputs: regenerable by running the scripts, except the three Stage 1
+# and Stage 2 summaries below. Those are derived from the FASTQs, which are not
+# here, so they cannot be regenerated from this repository and everything
+# downstream of them needs them. They hold sequencing metrics only.
+plots/*
+!plots/stage_1/
+plots/stage_1/*
+!plots/stage_1/rna_composition.tsv
+!plots/stage_1/suspects_verified.tsv
+!plots/stage_2/
+plots/stage_2/*
+!plots/stage_2/read_counts.tsv
+
+# Count matrices. The assembled per-arm matrix at the top of each arm is
+# tracked; see counts/README.md. Everything else under counts/ is excluded:
+# per-sample intermediates, bowtie/subread indexes, run logs, the pilot cohort
+# (a different study), and the patient-level sample table.
+counts/*/main/
+counts/*/pilot/
+counts/*/ref/
+counts/_logs/
+counts/*/*_pilot*.tsv
+counts/*/sample_metadata_for_counts.tsv
+counts/*/*.log
+
+# Patient-level clinical data. Never add these here; they are GDPR personal data
+# and live only in the private repository.
+patient_map.xlsx
+patients.xlsx
+sample_metadata.tsv
+
+# Raw sequencing data.
+fastq/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+
+# Third-party reference data: see refs/README.md for sources.
+refs/*.fa
+refs/*.fasta.gz
+refs/*.gmt
+refs/*.gz
+refs/*.pdf
+refs/go/
+refs/otdb/
+refs/mieaa/
+refs/hp_raw/
+refs/figures/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Caches and scratch
+*.pkl
+*.pickle
+*.rds
+*.RData
+~$*
+*.tmp
+.DS_Store

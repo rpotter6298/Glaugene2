@@ -1,0 +1,11 @@
+miRNA	control_reads	control_pct	pex_reads	pex_pct
+hsa-miR-184	440360	61.9	370470	52.1
+hsa-let-7a-5p	118218	16.6	169010	23.8
+hsa-let-7c-5p	39434	5.5	56383	7.9
+hsa-let-7f-5p	29825	4.2	36071	5.1
+hsa-miR-204-5p	12044	1.7	10554	1.5
+hsa-let-7b-5p	7127	1.0	10797	1.5
+hsa-miR-486-5p	10394	1.5	5698	0.8
+hsa-miR-181a-5p	7123	1.0	8266	1.2
+hsa-miR-30a-5p	6547	0.9	7195	1.0
+hsa-miR-26a-5p	6814	1.0	6001	0.8
